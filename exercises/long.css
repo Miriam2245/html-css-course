@@ -1,0 +1,47 @@
+.aa{
+    color: #007185;
+    font-size: 20px;
+    transition: color 0.5s;
+}
+.aa:hover{
+    color:rgb(253,187,6);
+}
+.Nike{
+    font-size: 30px;
+    font-weight: bold;
+}
+.stock{
+    color: rgb(0,118,0);
+    font-size: 20px;
+    font-weight: bold;
+}
+.Free{
+    font-size: 20px;
+}
+.cat{
+    background-color: rgb(255,216,20);
+    color: black;
+    height: 45px;
+    width: 180px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    transition: background-color 0.5s, opacity 0.5s;
+}
+.cat:hover{
+    background-color: rgb(150, 125, 3);
+}
+.cat:active{
+    opacity: 0.4;
+}
+.Buy{
+    background-color: rgb(255,164,28);
+    height: 45px;
+    width: 180px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 20px;
+}

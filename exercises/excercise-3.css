@@ -1,0 +1,68 @@
+p{
+    font-family: Arial;
+}
+.new{
+    color: orange;
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.max{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.for{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.from{
+    text-align: center;
+    font-size: 12px;
+    color: rgb(139, 139, 139);
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.buy-button{
+    background-color: rgb(6, 161, 223);
+    color: white;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.number{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.usd{
+    color: rgb(139, 139, 139);
+    font-size: 20px;
+}
+.today{
+      color: rgb(19, 190, 19);
+      margin-top: 10px;
+      margin-bottom: 0px;
+}
+.after{
+    font-size: 20px;
+    color: rgb(139, 139, 139);
+    margin-top: 10px;
+}
+.neg{
+    font-size: 20px;
+    color: rgb(252, 54, 54);
+    
+}
